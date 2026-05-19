@@ -15,7 +15,7 @@
 
 **Langages & Data Science :**
 <br>
-![Python]
+![Python](logoColor=ffdd54)
 ![TensorFlow]
 ![scikit-learn]
 ![Pandas]
