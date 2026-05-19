@@ -9,22 +9,15 @@
 - 🌱 **Je me perfectionne sur :** Le Deep Learning appliqué aux séries temporelles (LSTM) et les architectures Cloud Microsoft Azure (préparation certification DP-700).
 - 🎯 **Mon objectif :** Poursuivre mes travaux de recherche appliquée dans le cadre d'une **Thèse CIFRE** en IA et systèmes embarqués (secteur automobile/industrie).
 - 💬 **Parlons de :** Machine Learning (Supervisé/Non Supervisé), Data Engineering (ETL, Power Platform), et Data Visualisation (Power BI).
-- 📫 **Me contacter :** [Mon profil LinkedIn](https://www.linkedin.com/in/votre-lien-linkedin/)
+- 📫 **Me contacter :** [Mon profil LinkedIn](https://www.linkedin.com/in/sabrina-audrey-fezeu-404434277/)
 
 ### 🛠️ Ma Stack Technique
 
 **Langages & Data Science :**
-<br>
-![Python] logoColor=ffdd54
-![TensorFlow]
-![scikit-learn]
-![Pandas]
+🐍 Python | 🧠 TensorFlow | 📊 Scikit-Learn | 🐼 Pandas
 
 **Data Engineering & BI :**
-<br>
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+☁️ Microsoft Azure | 📈 Power BI | 🗄️ SQL
 
 ### 📊 Mes Projets Phares
 
